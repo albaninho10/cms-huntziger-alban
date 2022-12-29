@@ -2,7 +2,7 @@
 
 Rida : 
 
-Personne ne connaissait le nom de ton hébergeur et il ne marchait pas bien chez moi, j'ai utilisé hostinger ducoup et j'ai exporter les fichier depuis leur CPanel, avec tout : fichier, bases de données, etc (la plus grosse sauvegarde... j'ai suivi ça : https://www.hostinger.com/tutorials/backups/downloading-website-backup à la section : "Option 1: Automatic Full Account Backup")
+Personne ne connaissait le nom de ton hébergeur et il ne marchait pas bien chez moi, j'ai utilisé hostinger ducoup et j'ai exporter les fichier et la DB, ducoup le folder c'ets les fichiers exactement comme il a été exporté et la DB pareil
 
 J'étais obligé de connecter un domaine avec hostinger donc j'ai pris qui a rien a voir que j'avais acheté pour un autre projet
 
